@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rilque
 - 👀 I’m interested in  aprender
- 🌱 I’m currently learning  Técnico em Desenvolvimento de Sistemas
+ 🌱 I’m currently learning Analise e Desenvolvimento de Sistemas
 - 💞️ I’m looking to collaborate on  projetos e atividades
 - 📫 How to reach me  rickboddy@hotmail.com
 
